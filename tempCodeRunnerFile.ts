@@ -1,2 +1,2 @@
 
-        console.log("                                                     ");
+    let contas: ContaController = new ContaController();
